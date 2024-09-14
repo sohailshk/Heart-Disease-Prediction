@@ -4,7 +4,7 @@
 This project focuses on predicting the likelihood of heart disease using machine learning models. The dataset, obtained from [Kaggle](https://www.kaggle.com), contains over 900+ entries with 12 features related to patient health and medical history. By applying various data preprocessing techniques and machine learning algorithms, we aim to develop an accurate predictive model.
 
 ## Dataset
-- **Source**: [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets)
+- **Source**: Kaggle-Currently present in the github as heart.csv
 - **Entries**: 900+
 - **Features**: 20 (including age, cholesterol, blood pressure, chest pain type, etc.)
 - **Target**: `HeartDisease` (binary classification: 0 for no disease, 1 for presence of disease)
